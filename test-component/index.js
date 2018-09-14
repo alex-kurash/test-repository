@@ -7,7 +7,6 @@ export default {
     bindings: {
         fieldLabel: '@',
         fieldPlaceholder: '@',
-        fieldName: '@',
-        fieldData: '='
+        fieldName: '@'
     }
 };
